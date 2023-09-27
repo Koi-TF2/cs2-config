@@ -8,12 +8,12 @@ To install:
 
 Fullscreen 4:3 res (recommended stretched to screen + change m_yaw to match - the config uses a 4:3 stretched m_yaw by default):
 
-`-fullscreen -w 1440 -h 1080 -refresh 240 -tickrate 128 -novid -console -nojoy -nosteamcontroller -nohltv -noquicktime -precachefontchars -useforcedmparms -noforcemaccel -noforcemspd -forcenovsync`
+`-fullscreen -w 1440 -h 1080 -refresh 240 -novid -console -nojoy -nosteamcontroller -nohltv -noquicktime -precachefontchars -useforcedmparms -noforcemaccel -noforcemspd -forcenovsync`
 
 Fullscreen 16:9 res:
 
-`-fullscreen -w 1920 -h 1080 -refresh 240 -tickrate 128 -novid -console -nojoy -nosteamcontroller -nohltv -noquicktime -precachefontchars -useforcedmparms -noforcemaccel -noforcemspd -forcenovsync`
+`-fullscreen -w 1920 -h 1080 -refresh 240 -novid -console -nojoy -nosteamcontroller -nohltv -noquicktime -precachefontchars -useforcedmparms -noforcemaccel -noforcemspd -forcenovsync`
 
 Windowed Borderless:
 
-`-sw -w 1920 -h 1080 -noborder -refresh 240 -tickrate 128 -novid -console -nojoy -nosteamcontroller -nohltv -noquicktime -precachefontchars -useforcedmparms -noforcemaccel -noforcemspd -forcenovsync`
+`-windowed -w 1920 -h 1080 -noborder -refresh 240 -novid -console -nojoy -nosteamcontroller -nohltv -noquicktime -precachefontchars -useforcedmparms -noforcemaccel -noforcemspd -forcenovsync`
